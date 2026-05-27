@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.e8ae399f.css",
-    "main.js": "/static/js/main.295b55b6.js",
+    "main.js": "/static/js/main.1b69fbf5.js",
+    "static/js/ort-wasm-simd-threaded.jsep.wasm": "/static/js/ort-wasm-simd-threaded.jsep.wasm",
+    "static/media/ort-wasm-simd-threaded.jsep.wasm": "/static/media/ort-wasm-simd-threaded.jsep.7159377c07b0033df76a.wasm",
+    "static/js/ort-wasm-simd-threaded.asyncify.wasm": "/static/js/ort-wasm-simd-threaded.asyncify.wasm",
+    "static/js/ort-wasm-simd-threaded.jspi.wasm": "/static/js/ort-wasm-simd-threaded.jspi.wasm",
     "best.onnx": "/best.onnx",
-    "static/js/ort-wasm-simd.wasm": "/static/js/ort-wasm-simd.wasm",
     "static/js/ort-wasm-simd-threaded.wasm": "/static/js/ort-wasm-simd-threaded.wasm",
-    "static/js/ort-wasm.wasm": "/static/js/ort-wasm.wasm",
-    "static/js/ort-wasm-threaded.wasm": "/static/js/ort-wasm-threaded.wasm",
+    "static/media/ort.bundle.min.mjs": "/static/media/ort.bundle.min.f6c99ce6e5b69ac18eb0.mjs",
     "mask-yolov8-seg.onnx": "/mask-yolov8-seg.onnx",
     "nms-yolov8.onnx": "/nms-yolov8.onnx",
     "index.html": "/index.html",
     "main.e8ae399f.css.map": "/static/css/main.e8ae399f.css.map",
-    "main.295b55b6.js.map": "/static/js/main.295b55b6.js.map"
+    "main.1b69fbf5.js.map": "/static/js/main.1b69fbf5.js.map"
   },
   "entrypoints": [
     "static/css/main.e8ae399f.css",
-    "static/js/main.295b55b6.js"
+    "static/js/main.1b69fbf5.js"
   ]
 }
