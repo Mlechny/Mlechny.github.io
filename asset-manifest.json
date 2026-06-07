@@ -1,24 +1,50 @@
 {
   "files": {
     "main.css": "/static/css/main.c19e4039.css",
-    "main.js": "/static/js/main.40d0b209.js",
+    "main.js": "/static/js/main.741daf09.js",
     "static/js/ort-wasm-simd-threaded.jsep.wasm": "/static/js/ort-wasm-simd-threaded.jsep.wasm",
     "static/media/ort-wasm-simd-threaded.jsep.wasm": "/static/media/ort-wasm-simd-threaded.jsep.7159377c07b0033df76a.wasm",
+    "hf-wasm/ort-wasm-simd-threaded.jsep.wasm": "/hf-wasm/ort-wasm-simd-threaded.jsep.wasm",
     "static/js/ort-wasm-simd-threaded.asyncify.wasm": "/static/js/ort-wasm-simd-threaded.asyncify.wasm",
+    "hf-wasm/ort-wasm-simd-threaded.asyncify.wasm": "/hf-wasm/ort-wasm-simd-threaded.asyncify.wasm",
     "static/media/ort-wasm-simd-threaded.asyncify.wasm": "/static/media/ort-wasm-simd-threaded.asyncify.bb191ad2bb217f542c38.wasm",
     "static/js/ort-wasm-simd-threaded.jspi.wasm": "/static/js/ort-wasm-simd-threaded.jspi.wasm",
+    "hf-wasm/ort-wasm-simd-threaded.jspi.wasm": "/hf-wasm/ort-wasm-simd-threaded.jspi.wasm",
     "best.onnx": "/best.onnx",
     "static/js/ort-wasm-simd-threaded.wasm": "/static/js/ort-wasm-simd-threaded.wasm",
+    "hf-wasm/ort-wasm-simd-threaded.wasm": "/hf-wasm/ort-wasm-simd-threaded.wasm",
+    "hf-wasm/ort.all.mjs": "/hf-wasm/ort.all.mjs",
+    "hf-wasm/ort.all.bundle.min.mjs": "/hf-wasm/ort.all.bundle.min.mjs",
+    "hf-wasm/ort.all.min.mjs": "/hf-wasm/ort.all.min.mjs",
+    "hf-wasm/ort.webgl.mjs": "/hf-wasm/ort.webgl.mjs",
     "static/media/ort.bundle.min.mjs": "/static/media/ort.bundle.min.f6c99ce6e5b69ac18eb0.mjs",
+    "hf-wasm/ort.webgl.min.mjs": "/hf-wasm/ort.webgl.min.mjs",
+    "hf-wasm/ort.bundle.min.mjs": "/hf-wasm/ort.bundle.min.mjs",
+    "hf-wasm/ort.mjs": "/hf-wasm/ort.mjs",
+    "hf-wasm/ort.min.mjs": "/hf-wasm/ort.min.mjs",
     "static/media/ort.webgpu.bundle.min.mjs": "/static/media/ort.webgpu.bundle.min.dca43fa03722549f0400.mjs",
+    "hf-wasm/ort.webgpu.bundle.min.mjs": "/hf-wasm/ort.webgpu.bundle.min.mjs",
+    "hf-wasm/ort.jspi.bundle.min.mjs": "/hf-wasm/ort.jspi.bundle.min.mjs",
+    "hf-wasm/ort.wasm.bundle.min.mjs": "/hf-wasm/ort.wasm.bundle.min.mjs",
+    "hf-wasm/ort.jspi.mjs": "/hf-wasm/ort.jspi.mjs",
+    "hf-wasm/ort.webgpu.mjs": "/hf-wasm/ort.webgpu.mjs",
+    "hf-wasm/ort.jspi.min.mjs": "/hf-wasm/ort.jspi.min.mjs",
+    "hf-wasm/ort.webgpu.min.mjs": "/hf-wasm/ort.webgpu.min.mjs",
+    "hf-wasm/ort.wasm.mjs": "/hf-wasm/ort.wasm.mjs",
+    "hf-wasm/ort.wasm.min.mjs": "/hf-wasm/ort.wasm.min.mjs",
+    "hf-wasm/ort-wasm-simd-threaded.asyncify.mjs": "/hf-wasm/ort-wasm-simd-threaded.asyncify.mjs",
+    "hf-wasm/ort-wasm-simd-threaded.jsep.mjs": "/hf-wasm/ort-wasm-simd-threaded.jsep.mjs",
+    "hf-wasm/ort-wasm-simd-threaded.jspi.mjs": "/hf-wasm/ort-wasm-simd-threaded.jspi.mjs",
+    "hf-wasm/ort.node.min.mjs": "/hf-wasm/ort.node.min.mjs",
+    "hf-wasm/ort-wasm-simd-threaded.mjs": "/hf-wasm/ort-wasm-simd-threaded.mjs",
     "mask-yolov8-seg.onnx": "/mask-yolov8-seg.onnx",
     "nms-yolov8.onnx": "/nms-yolov8.onnx",
     "index.html": "/index.html",
     "main.c19e4039.css.map": "/static/css/main.c19e4039.css.map",
-    "main.40d0b209.js.map": "/static/js/main.40d0b209.js.map"
+    "main.741daf09.js.map": "/static/js/main.741daf09.js.map"
   },
   "entrypoints": [
     "static/css/main.c19e4039.css",
-    "static/js/main.40d0b209.js"
+    "static/js/main.741daf09.js"
   ]
 }
